@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+
+   
+}
+
+#main {
+  width: 626px; 
+  margin: 64px auto; 
+}
+
+#wave {
+  display: block;
+  margin: auto;
+}
